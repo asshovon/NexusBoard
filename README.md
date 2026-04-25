@@ -1,2 +1,10 @@
-# NexusBoard
-A collaborative real-time drawing board for creative teams.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `Local_API_KEY` in [.env.local](.env.local) to your Local API key
+3. Run the app:
+   `npm run dev`
